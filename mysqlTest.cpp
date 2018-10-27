@@ -19,4 +19,6 @@ int main()
 	{
 		cout << "field " << i << " name is " << fields[i].name << endl;
 	}
+
+	map<int ,string> mapStr;
 }
