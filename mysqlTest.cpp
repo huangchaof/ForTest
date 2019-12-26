@@ -21,4 +21,5 @@ int main()
 	}
 
 	map<int ,string> mapStr;
+	mapStr.insert(pair<int, string>(1,"dhjahdsj"));
 }
